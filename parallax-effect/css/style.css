@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia;
+    box-sizing: border-box;
+    background-color: #555;
+}
+.pic1{
+    margin: 0px;
+    height: 100vh;
+    background: url('../images/pic1.jpeg') no-repeat center top;
+    background-size: cover;
+}
+.pic1 h2{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 20%;
+    color: #ddd;
+    background-color: rgba(61, 58, 58, 0.685);
+    font-size: 10rem;
+    font-weight: normal;
+    
+}
+.description{
+    margin: 0;
+    font-family:'Segoe UI';
+    text-align: center;
+    padding: 0rem 0rem;
+    color: #ddd;
+}
+
+.description h3{
+    margin: 0;
+    padding: 1rem;
+    font-size: 3rem;
+}
+.description p{
+    margin: 0;
+    padding: 1rem;  
+    font-size: 1.3rem;
+}
+.pic2{
+    margin: 0px;
+    height: 100vh;
+    background: url('../images/pic2.jpeg') no-repeat bottom center fixed;
+    background-size: cover;
+}
+.pic2 h2{
+    width: 100%;
+    text-align: center;
+    color: #ddd;
+    background-color: rgba(61, 58, 58, 0.685);
+    font-size: 6rem;
+    font-weight: normal;
+    
+}
+.pic3{
+    margin: 0px;
+    height: 100vh;
+    background: url('../images/pic3.jpeg') no-repeat bottom center fixed;
+    background-size: cover;
+}
+.pic3 h2{
+    width: 100%;
+    text-align: center;
+    color: #ddd;
+    background-color: rgba(61, 58, 58, 0.685);
+    font-size: 6rem;
+    font-weight: normal;
+    
+}
+.pic4{
+    margin: 0px;
+    height: 100vh;
+    background: url('../images/pic4.jpeg') no-repeat bottom center fixed;
+    background-size: cover;
+}
+.pic4 h2{
+    width: 100%;
+    text-align: center;
+    color: #ddd;
+    background-color: rgba(61, 58, 58, 0.685);
+    font-size: 6rem;
+    font-weight: normal;
+    
+}
